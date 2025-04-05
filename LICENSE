@@ -1,21 +1,48 @@
-MIT License
+LICENSE.md
 
 Copyright (c) 2025 Chris-Puig
+All rights reserved.
+Nova License Agreement
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This License Agreement ("Agreement") governs the use, copying, modification, and distribution of the software known as "Nova" ("Software") developed by Chris-Puig ("Author"). By using the Software, you agree to be bound by the terms of this Agreement.
+1. Grant of License
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+The Author grants you a limited, non-exclusive, non-transferable license to use and modify the Software under the following conditions:
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+    You may use the Software for personal, educational, or internal business purposes.
+    You may modify the Software to meet your specific needs, provided that the modified version remains for personal or internal use only.
+    You may create derivative works from the Software, but they must not be publicly distributed, sold, or transferred.
+    You may share feedback or suggestions with the Author to help improve the Software.
+
+2. Restrictions
+
+You are not allowed to:
+
+    Remove or alter any copyright notices, trademarks, or other proprietary markings.
+    Distribute, sublicense, lease, rent, or otherwise transfer the Software or any modified versions to third parties without written permission from the Author.
+    Sell or commercially exploit the Software, or any derivative works based on the Software, without explicit permission from the Author.
+    Use the Software for any illegal or unauthorized purposes.
+    Attempt to reverse-engineer, decompile, or disassemble the Software.
+
+3. Ownership
+
+All rights, title, and interest in and to the Software, including any updates, modifications, or enhancements, remain the exclusive property of the Author. This Agreement does not transfer any rights of ownership to you.
+4. Disclaimer of Warranty
+
+The Software is provided "as is" without warranty of any kind, express or implied. The Author makes no guarantees as to the functionality, reliability, or accuracy of the Software. You assume all risks associated with the use of the Software.
+5. Limitation of Liability
+
+Under no circumstances shall the Author be liable for any direct, indirect, incidental, consequential, or punitive damages arising from the use or inability to use the Software, even if the Author has been advised of the possibility of such damages.
+6. Termination
+
+This Agreement is effective until terminated. Your rights under this Agreement will terminate automatically if you violate any terms of this Agreement. Upon termination, you must destroy all copies of the Software in your possession.
+7. Governing Law
+
+This Agreement shall be governed and interpreted in accordance with the laws of United States Of America/Florida, without regard to its conflict of law principles.
+8. Entire Agreement
+
+This Agreement constitutes the entire agreement between the parties and supersedes all prior communications, representations, or agreements, whether oral or written, concerning the Software.
+
+© 2025 Chris-Puig
+All rights reserved.
+
