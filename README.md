@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/98a2cabc-5728-4fd1-afe8-2064b6fef68f" width="400" />
+</p>
+
 # What is Nova?
 **Nova** is an automated OSINT-driven wordlist generation tool built for professional penetration testers seeking to optimize and streamline the credential brute-forcing phase of an engagement. Designed with flexibility, speed, and precision in mind, Nova runs in Linux environments and is written in Python. 
 
